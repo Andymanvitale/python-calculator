@@ -35,7 +35,7 @@ def mean(data):
 
 
 class Calculator:
-    result = 0
+    result = int()
 
     def __init__(self):
         pass
