@@ -4,11 +4,17 @@ def addition(a, b):
 def subtraction(a, b):
     return a - b
 
-def subtraction(a, b):
-    return a - b
+def multiply(a, b):
+    return a * b
 
-def subtraction(a, b):
-    return a - b
+def divide(a, b):
+    return a / b
+
+def square(a, a):
+    return a * b
+
+def squareroot(a, a):
+    return a * a
 
 class Calculator:
     result = 0
